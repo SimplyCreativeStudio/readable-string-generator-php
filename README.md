@@ -36,7 +36,7 @@ use Nordpeak\ReadableStringGenerator;
 ReadableStringGenerator::generate(); // => "WASABO"
 
 // change length 
-NamesGenerator::generate(["length" => "4"]); // => "MODU"
+ReadableStringGenerator::generate(["length" => "4"]); // => "MODU"
 ```
 
 
