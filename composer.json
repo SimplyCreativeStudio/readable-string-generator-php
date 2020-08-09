@@ -1,6 +1,6 @@
 {
     "name": "nordpeak/readable-string-generator",
-    "description": "Small library that generates a human readable string",
+    "description": "Small library that generates a random human readable string.",
     "authors": [
         {
             "name": "Glenn Engelen",
