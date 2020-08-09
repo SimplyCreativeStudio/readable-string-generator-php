@@ -46,7 +46,7 @@ ReadableStringGenerator::generate(["length" => "4"]); // => "MODU"
 The following options are available:
 
 ```php
-NamesGenerator::generate([
+ReadableStringGenerator::generate([
   "length" => "8" // default = 6
 ]);
 ```
